@@ -13,12 +13,12 @@
 
 ## 1. Datos del alumno/a
 
-- **Nombre y apellidos:**  
-- **Iniciales:**  
-- **Grupo:**  
-- **Actividad / ID:**  
-- **Unidad / Tema:**  
-- **Fecha de entrega:**  
+- **Nombre y apellidos: David Jimenez Ruiz**  
+- **Iniciales: DJR**  
+- **Grupo: 3**  
+- **Actividad / ID: 2.a.e**  
+- **Unidad / Tema: Unidad 2**  
+- **Fecha de entrega: 23/02/2026**  
 
 ---
 
