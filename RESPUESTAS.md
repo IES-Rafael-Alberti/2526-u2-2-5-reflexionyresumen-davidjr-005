@@ -55,7 +55,7 @@ Incluye **todos los puntos** vistos en la unidad. Prioriza esquema/tabla/listas 
 
 ### 2.1) Mapa/índice de la unidad (visión global)
 
-| Apartado                               | Qué incluye (resumen)                                                                   |
+| Apartado                               | Resumen                                                                   |
 | -------------------------------------- | --------------------------------------------------------------------------------------- |
 | Gestión de incidentes                  | Clasificación, valoración y documentación de incidentes                                 |
 | OSINT aplicado a investigación digital | Recopilación y análisis de información en fuentes abiertas con metodología y evidencias |
@@ -114,7 +114,7 @@ Errores típicos:
 
 - Sobrecargar el SIEM de alertas sin priorización (fatiga de alertas).
 
-- No guardar evidencias o no anotar timestamps
+- No guardar evidencias o no documentar pensando en hacerlo luego.
 
 ### 2.6) Glosario mínimo (términos y definiciones cortas)
 
