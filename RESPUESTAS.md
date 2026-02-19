@@ -147,11 +147,11 @@ Enlaza aquí evidencias (capturas, logs, configuraciones, salidas de comandos, e
 
 ## 4) Conclusión (cierre)
 
-En esta **Unidad 2** he consolidado una visión bastante completa de cómo se trabaja en un entorno tipo SOC, desde el enfoque práctico de detectar, investigar y gestionar incidentes. 
+En esta **Unidad 2** he consolidado una visión bastante completa de cómo se trabaja en un entorno tipo SOC, no solo a nivel conceptual (SOC, SIEM, IDS/IPS, SOAR, Threat Intelligence, Threat Hunting), sino también desde el enfoque práctico de detectar, investigar y gestionar incidentes. 
 
 La parte que más me aportó fue la instalación y configuración de un SIEM tipo ELK, porque me ayudó a entender el flujo real de los eventos (logs), la correlación y la generación de alertas.
 
-Las prácticas de OSINT también fueron muy útiles para tomar conciencia de la huella digital y de lo fácil que es recopilar información desde fuentes abiertas si no se controla.
+Las prácticas de OSINT también fueron muy útiles para tomar conciencia de la huella digital y de lo fácil que es recopilar información desde fuentes abiertas si no se controla. Aunque creo que algunos ejercicios deberían actualizarse para evitar fuentes con respuestas que condicionan la propia práctica.
 
 También, me quedo con la importancia de la taxonomía de incidentes y de valorar un incidente por criterios de peligrosidad e impacto, porque es lo que permite priorizar y comunicar de forma consistente.
 
