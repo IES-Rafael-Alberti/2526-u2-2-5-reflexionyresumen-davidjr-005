@@ -51,7 +51,11 @@ Responde con **lenguaje técnico** y **argumentos** (no solo opiniones). Si proc
 - También veo como punto crítico el equilibrio entre detectar mucho (muchas alertas) y detectar bien: si no se ajusta el SIEM, puedes saturarte de falsos positivos y perder lo importante.
 
 ## 2) Resumen esquematizado (obligatorio)
-Incluye **todos los puntos** vistos en la unidad. Prioriza esquema/tabla/listas sobre párrafos largos.
+Es el centro donde se vigila constantemente la seguridad y se responde cuando algo va mal. Para hacer este trabajo se usan varias herramientas clave: el SIEM, que básicamente junta todos los logs del sistema y los correlaciona para detectar cosas raras y generar alertas; los IDS/IPS, que detectan amenazas y, en el caso de los IPS, también las bloquean automáticamente; y cuando el SOC puede tener el SOAR, que automatiza tareas repetitivas y ejecuta respuestas predefinidas según playbooks.
+
+Además, se incorpora OSINT. Usa la información pública de internet para evaluar qué tan expuesta está la organización, enriquecer las alertas y investigar indicios de posibles ataques. Todo esto se hace siguiendo un método ordenado: se planifica qué se necesita saber, se identifica dónde buscarlo, se adquieren los datos, se procesan, se analizan y se comparten los resultados.
+
+Por último, es importante gestionar bien los incidentes de forma formal. Esto implica diferenciar claramente entre un evento, una alerta y un incidente. También hay que clasificar los incidentes usando una taxonomía común, como la de INCIBE-CERT, para que todos hablen el mismo idioma. Y lo más importante: priorizar según criterios como qué tan peligroso es y el impacto que puede tener, para saber qué atender primero. Todo esto se documenta bien, tanto las evidencias como las lecciones aprendidas, para mejorar la detección futura y reducir esos molestos falsos positivos que hacen perder tiempo.
 
 ### 2.1) Mapa/índice de la unidad (visión global)
 
